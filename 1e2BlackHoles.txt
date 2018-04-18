@@ -1,0 +1,12 @@
+black holes
+a supernova results in a neutron star a quark star or a black hole depending upon mass
+During a supernova, most of the stellar mass is blown off into space, forming elements heavier than iron which cannot be generated through stellar nucleosynthesis, because beyond iron, the star requires more energy to fuse the atoms than it gets back.
+
+During the supernova collapse, the atoms in the core break up into electrons, protons and neutrons.
+
+In the case that the supernova results in a neutron star core, the electrons and protons in the core are merged to become neutrons, so the newly born 20-km-diameter neutron star containing between 1.4 and 3 solar masses is like a giant atomic nucleus containing only neutrons.
+
+1 solar mass = 2 * 10^30 kg
+If the neutron star's mass is then increased(2 neutron stars combine), neutrons become degenerate, breaking up into their constituent quarks, thus the star becomes a quark star; a further increase in mass results in a black hole.
+
+https://astronomy.stackexchange.com/questions/748/how-does-neutron-star-collapse-into-black-hole

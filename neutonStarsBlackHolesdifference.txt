@@ -1,0 +1,49 @@
+A neutron star must have a minimum mass of at least 1.4x solar masses (that is, 1.4x mass of our Sun) in order to become a neutron star in the first place. See Chandrasekhar limit on wikipedia for details.
+
+A neutron star is formed during a supernova, an explosion of a star that is at least 8 solar masses.
+
+The maximum mass of a neutron star is 3 solar masses. If it gets more massive than that, then it will collapse into a quark star, and then into a black hole.
+
+We know that 1 electron + 1 proton = 1 neutron;
+
+1 neutron = 3 quarks = up quark + down quark + down quark;
+
+1 proton = 3 quarks = up quark + up quark + down quark;
+
+A supernova results in either a neutron star (between 1.4 and 3 solar masses), a quark star(about 3 solar masses), or a black hole(greater than 3 solar masses), which is the remaining collapsed core of the star.
+
+During a supernova, most of the stellar mass is blown off into space, forming elements heavier than iron which cannot be generated through stellar nucleosynthesis, because beyond iron, the star requires more energy to fuse the atoms than it gets back.
+
+During the supernova collapse, the atoms in the core break up into electrons, protons and neutrons.
+
+In the case that the supernova results in a neutron star core, the electrons and protons in the core are merged to become neutrons, so the newly born 20-km-diameter neutron star containing between 1.4 and 3 solar masses is like a giant atomic nucleus containing only neutrons.
+
+If the neutron star's mass is then increased, neutrons become degenerate, breaking up into their constituent quarks, thus the star becomes a quark star; a further increase in mass results in a black hole.
+
+The upper/lower mass limit for a quark star is not known (or at least I couldn't find it), in any case, it is a narrow band around 3 solar masses, which is the minimum stable mass of a black hole.
+
+When you talk about a black hole with a stable mass (at least 3 solar masses), it is good to consider that they come in 4 flavors: rotating-charged, rotating-uncharged, non-rotating-charged, non-rotating-uncharged.
+
+What we would see visually during the transformation would be a hard radiation flash. This is because during the collapse, the particles on/near the surface have time to emit hard radiation as they break up before going into the event horizon; so this could be one of the causes of gamma ray bursts (GRBs).
+
+We know that atoms break up into protons, neutrons, electrons under pressure.
+
+Under more pressure, protons and electrons combine into neutrons.
+
+Under even more pressure, neutrons break down into quarks.
+
+Under still more pressure, perhaps quarks break down into still smaller particles.
+
+Ultimately the smallest particle is a string: open or closed loop, and has a Planck length, which is many orders of magnitude smaller than a quark. if a string is magnified so it is 1 millimeter in length, then a proton would have a diameter that would fit snugly between the Sun and Epsilon Eridani, 10.5 light years away; that's how big a proton is compared to a string, so you can imagine there are perhaps quite a few intermediate things between quarks and strings.
+
+Currently it looks like several more decades will be needed to figure out all the math in string theory, and if there is anything smaller than strings then a new theory will be required, but so far string theory looks good; see the book Elegant Universe by Brian Greene.
+
+A string is pure energy and Einstein said mass is just a form of energy, so the collapse into a black hole really breaks down the structure of energy that gives the appearance of mass/matter/baryonic particles, and leaves the mass in its most simple form, open or closed strings, that is, pure energy bound by gravity.
+
+We know that black holes (which are not really holes or singularities, as they do have mass, radius, rotation, charge and hence density, which varies with radius) can evaporate, giving up their entire mass in the form of radiation, thus proving they are actually energy. Evaporation of a black hole occurs if its mass is below the minimum mass of a stable black hole, which is 3 solar masses; the Schwarzschild radius equation even tells you what the radius of a black hole is given its mass, and vice versa.
+
+So you could transform anything you want, such as your pencil, into a black hole if you wanted to, and could compress it into the required size for it to become a black hole; it is just that it would immediately transform itself (evaporate) completely into a flash of hard radiation, because a pencil is less than the stable black hole mass (3 solar masses).
+
+This is why the CERN experiment could never have created a black hole to swallow the Earth - a subatomic black hole, even one with the mass of the entire Earth, or the Sun, would evaporate before swallowing anything; there is not enough mass in our solar system to make a stable (3 solar mass) black hole.
+
+A simple way for a neutron star to become more massive in order to be able to turn into a black hole is to be part of a binary system, where it is close enough to another star that the neutron star and its binary pair orbit each other, and the neutron star siphons off gas from the other star, thus gaining mass.
